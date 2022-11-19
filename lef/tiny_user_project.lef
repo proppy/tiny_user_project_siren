@@ -941,7 +941,7 @@ MACRO tiny_user_project
   END vssd1
   OBS
       LAYER Metal1 ;
-        RECT 6.720 8.550 243.040 232.250 ;
+        RECT 6.720 8.550 243.040 239.530 ;
       LAYER Metal2 ;
         RECT 0.140 245.700 3.060 246.820 ;
         RECT 4.220 245.700 9.780 246.820 ;
@@ -1140,6 +1140,9 @@ MACRO tiny_user_project
         RECT 4.300 6.420 246.000 7.580 ;
         RECT 0.090 4.220 246.000 6.420 ;
         RECT 0.090 3.500 245.700 4.220 ;
+      LAYER Metal4 ;
+        RECT 40.460 167.530 98.740 231.750 ;
+        RECT 100.940 167.530 134.820 231.750 ;
   END
 END tiny_user_project
 END LIBRARY
