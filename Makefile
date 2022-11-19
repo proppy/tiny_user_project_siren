@@ -319,7 +319,7 @@ caravel-sta: ./env/spef-mapping.tcl
 	@$(MAKE) -C $(TIMING_ROOT) -f $(TIMING_ROOT)/timing.mk caravel-timing-slow
 	@echo "You can find results for all corners in $(CUP_ROOT)/signoff/caravel/openlane-signoff/timing/"
 
-WOKWI_PROJECT_ID=334445762078310996
+WOKWI_PROJECT_ID=348242239268323922
 
 .PHONY: fetch
 fetch:
