@@ -1,7 +1,7 @@
 magic
 tech gf180mcuC
 magscale 1 5
-timestamp 1668864002
+timestamp 1668865358
 << obsm1 >>
 rect 672 855 24304 23953
 << metal2 >>
@@ -565,7 +565,7 @@ string FIXED_BBOX 0 0 25000 25000
 string LEFclass BLOCK
 string LEFview TRUE
 string GDS_END 657810
-string GDS_FILE /home/runner/work/tiny_user_project_siren/tiny_user_project_siren/openlane/tiny_user_project/runs/22_11_19_13_18/results/signoff/tiny_user_project.magic.gds
+string GDS_FILE /home/runner/work/tiny_user_project_siren/tiny_user_project_siren/openlane/tiny_user_project/runs/22_11_19_13_41/results/signoff/tiny_user_project.magic.gds
 string GDS_START 113436
 << end >>
 
